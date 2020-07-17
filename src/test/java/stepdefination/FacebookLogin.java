@@ -38,6 +38,9 @@ public class FacebookLogin {
         String title =  driver.getTitle();
         System.out.println(title);
         Assert.assertEquals("Facebook",title);
-
+    }
+    @Then("^close the browser$")
+    public void close_the_browser() throws Throwable {
+       driver.quit();
     }
 }

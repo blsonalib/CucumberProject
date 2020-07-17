@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd4a912d-2035-4aed-beb7-4df0ac597d31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Features/FacebookLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/FacebookLogin.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json_output/cucumber.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefination/FacebookLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefination/FacebookLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testrunner/FacebookTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testrunner/FacebookTestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefination/FacebookLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefination/FacebookLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testrunner/FacebookTestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testrunner/FacebookTestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_output/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_output/report.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,9 +120,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FacebookTestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Login with valid user credensials" />
         <item itemvalue="Cucumber java.Feature: FacebookLogin" />
         <item itemvalue="Cucumber java.Scenario: Home page scenario" />
-        <item itemvalue="Cucumber java.Scenario: Login with valid user credensials" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +139,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1594898599980">
       <screen x="0" y="0" width="1536" height="824" />
@@ -152,22 +159,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="448" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1594983708138" />
-    <state width="1493" height="272" key="GridCell.Tab.0.bottom" timestamp="1595009447995">
+    <state width="1493" height="272" key="GridCell.Tab.0.bottom" timestamp="1595011318289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595009447995" />
-    <state width="1493" height="272" key="GridCell.Tab.0.center" timestamp="1595009447994">
+    <state width="1493" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595011318289" />
+    <state width="1493" height="272" key="GridCell.Tab.0.center" timestamp="1595011318289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="272" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595009447994" />
-    <state width="1493" height="272" key="GridCell.Tab.0.left" timestamp="1595009447994">
+    <state width="1493" height="272" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595011318289" />
+    <state width="1493" height="272" key="GridCell.Tab.0.left" timestamp="1595011318289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="272" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595009447994" />
-    <state width="1493" height="272" key="GridCell.Tab.0.right" timestamp="1595009447995">
+    <state width="1493" height="272" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595011318289" />
+    <state width="1493" height="272" key="GridCell.Tab.0.right" timestamp="1595011318289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="272" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595009447995" />
+    <state width="1493" height="272" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595011318289" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594905661501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
