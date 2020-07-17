@@ -8,13 +8,12 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "Features",
+        features = "C:\\Users\\HP\\Documents\\CucumberProject\\Features",
         glue = "stepdefination",
-        //dryRun = false,
-       //monochrome = true,
-        plugin = {"pretty","json:json_output/cucumber.json","junit:junit_output/cucumber.xml"},
-        snippets = SnippetType.CAMELCASE
-       //strict = true
+        dryRun = false,
+        monochrome = true,
+        plugin = {"pretty","html:test_output"},
+        strict = true
 
 )
 public class FacebookTestRunner {
